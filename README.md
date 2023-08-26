@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 공사 중.
+- 공사 중..
 
 ### Education
 
