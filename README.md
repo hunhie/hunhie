@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 준비 중.
+- 준비 중
 
 ### Education
 
