@@ -13,6 +13,7 @@
 
 - SeSAC [iOS Developer Debut Camp](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1570&srchCategoryTypeCd=&courseMasterSeq=261&currentMenuId=900002001)
   - 2023.07.17 ~ 2024.01.17
+  - iOS, CS 스키마, 도메인 지식 학습
 - Ellen [Swift Master Camp](https://www.inflearn.com/course/스위프트-문법-마스터-스쿨)
   - 2023.01.31 ~ 2023.03.31 (2 개월)
   - Swift 문법 A to Z
