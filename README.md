@@ -1,6 +1,5 @@
-## iOS Developer at [  ]
-
-빈 칸에 들어갈 회사를 구직 중입니다.
+## iOS Developer at 3R Innovation
+- 2023.11.15 ~ 
 
 ### About Me
 
