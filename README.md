@@ -1,5 +1,5 @@
-## iOS Developer at 3R Innovation
-- 2023.11.15 ~ 
+## iOS Developer at [    ]
+- 빈 칸에 들어갈 회사를 찾고 있습니다.
 
 ### About Me
 
