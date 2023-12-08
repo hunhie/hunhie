@@ -1,4 +1,5 @@
-## iOS Developer at 3R Innovation
+## iOS Developer at 3R Innovation (2023.11 ~)
+교사와 청소년을 위한 수업 운영 서비스 포커스팡의 iOS 앱 개발을 담당합니다.
 
 ### About Me
 
