@@ -1,5 +1,6 @@
-## iOS Developer at [   ]
-빈 칸에 들어갈 회사를 찾고 있어요.
+## iOS Developer at Chattylab 2024.01.01 ~
+창업팀 Chattylab에서 소셜 대화 플랫폼 Chatty의 iOS 앱을 개발해요.
+현재 프로젝트 리드 포지션을 맡아 기획부터 UI/UX, 개발까지 총괄하고 있어요.
 
 ### About Me
 
