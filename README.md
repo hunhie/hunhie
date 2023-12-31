@@ -2,7 +2,7 @@
 창업팀 [@Chattylab](https://github.com/chatty-lab)에서 소셜 대화 플랫폼 Chatty의 iOS 앱을 개발해요.   
 현재 프로젝트 리드 포지션을 맡아 기획부터 UX, 개발까지 총괄하고 있어요.
 
-[@Chatty-iOS-App](https://github.com/chatty-lab/Chatty-iOS-App)에서 현재 진행 중인 프로젝트의 소스 코드를 구경해볼 수 있어요.
+[@Chatty-iOS-App](https://github.com/chatty-lab/Chatty-iOS-App)에서 현재 진행 중인 프로젝트의 iOS 앱 소스 코드를 구경해볼 수 있어요.
 ### About Me
 
 - iOS 앱 서비스의 기획, 개발, 배포 과정을 담당하여 AppStore에 출시, 유지보수한 경험이 있어요.
